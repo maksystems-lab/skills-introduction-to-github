@@ -1,0 +1,21 @@
+# Some commonly used commands are :
+
+1. git clone 
+2. ls -a
+3. git push 
+4. git init
+5. mkdir
+6. git status 
+7. git commit
+8. git branch 
+9. git push origin main 
+10. git reset hash (unique number for every commit ig - get it from git log)
+11. git log
+12. q for quitting
+13. fork is to make a copy of any repo for u to work on it
+
+
+
+
+
+
